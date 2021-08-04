@@ -1,4 +1,15 @@
 # ASHRAE-Energy-Predictor-III
+## Brief problem description
+* Significant efforts are being made to increase building efficiencies in
+order to minimize costs and emissions. The question is whether the
+enhancements are effective. This is when this model comes into play.
+The building owner makes payments depending on the difference
+between their actual energy consumption and what they would have
+used without any retrofits under pay-for-performance financing. The
+latter values must be derived using the model.
+* Solution is to create accurate model of metered building energy usage
+in the following areas: chilled water, electric, hot water, and steam
+meters
 ## Data preprocessing
 ### Dataset files
 * Train.csv
