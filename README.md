@@ -53,9 +53,11 @@ make each type consume energy moderately.
 ## Proposed solution
 ### Model
 We tried various models but this is the one that gave me best accuracy a regular deep neural network with dense layers using RELU activation and batch normalization layers to give us stable training and using a dropout layer to reduce overfitting.
-![Alt text](EDA_assets/6.png?raw=true)
+![Alt text](EDA_assets/6.PNG?raw=true)
 ### Results and evaluation
-Model Accuracy on train and evaluation data
-![Alt text](EDA_assets/7.png?raw=true)
-Model Accuracy on test data
-![Alt text](EDA_assets/8.png?raw=true)
+* Model Accuracy on train and evaluation data 
+
+![Alt text](EDA_assets/7.PNG?raw=true)
+* Model Accuracy on test data
+
+ ![Alt text](EDA_assets/8.PNG?raw=true)
